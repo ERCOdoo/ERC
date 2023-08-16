@@ -1,0 +1,36 @@
+[submodule "account_check_batch"]
+	path = account_check_batch
+	url = git@gitlab.com:rightechs/addons/account_check_batch.git
+	branch = real_estate16
+[submodule "base_real_estate"]
+	path = base_real_estate
+	url = git@gitlab.com:rightechs/addons/base_real_estate.git
+	branch = 16.0
+[submodule "elsaka_payment_order"]
+	path = elsaka_payment_order
+	url = git@gitlab.com:rightechs/addons/elsaka_payment_order.git
+	branch = real_estate16
+[submodule "invoice_ar_ap"]
+	path = invoice_ar_ap
+	url = git@gitlab.com:rightechs/addons/invoice_ar_ap.git
+	branch = 16.0
+[submodule "rt_customer_account_statement"]
+	path = rt_customer_account_statement
+	url = git@gitlab.com:rightechs/addons/rt_customer_account_statement.git
+	branch = 16.0
+[submodule "rt_print_voucher"]
+	path = rt_print_voucher
+	url = git@gitlab.com:rightechs/addons/rt_print_voucher.git
+	branch = 16.0
+[submodule "rt_filter_account"]
+	path = rt_filter_account
+	url = git@gitlab.com:rightechs/custom_addons/rt_filter_account.git
+	branch = 16.0
+[submodule "rt_account_check"]
+	path = rt_account_check
+	url = git@gitlab.com:rightechs/extra_addons/rt_account_check.git
+	branch = real_estate16
+[submodule "rt_account_payment_fix"]
+	path = rt_account_payment_fix
+	url = git@gitlab.com:rightechs/extra_addons/rt_account_payment_fix.git
+	branch = 16.0
