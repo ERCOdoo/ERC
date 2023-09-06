@@ -1,11 +1,11 @@
 [submodule "account_check_batch"]
 	path = account_check_batch
 	url = git@gitlab.com:rightechs/addons/account_check_batch.git
-	branch = real_estate16
+	branch = erc
 [submodule "base_real_estate"]
 	path = base_real_estate
 	url = git@gitlab.com:rightechs/addons/base_real_estate.git
-	branch = 16.0
+	branch = erc
 [submodule "elsaka_payment_order"]
 	path = elsaka_payment_order
 	url = git@gitlab.com:rightechs/addons/elsaka_payment_order.git
