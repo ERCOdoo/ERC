@@ -34,3 +34,27 @@
 	path = rt_account_payment_fix
 	url = git@gitlab.com:rightechs/extra_addons/rt_account_payment_fix.git
 	branch = 16.0
+[submodule "purchase_request"]
+	path = purchase_request
+	url = git@gitlab.com:rightechs/addons/purchase_request.git
+	branch = 16.0
+[submodule "stock_analytic"]
+	path = stock_analytic
+	url = git@gitlab.com:rightechs/custom_addons/stock_analytic.git
+	branch = 16.0
+[submodule "stock_request_purchase"]
+	path = stock_request_purchase
+	url = git@gitlab.com:rightechs/custom_addons/stock_request_purchase.git
+	branch = 16.0
+[submodule "stock_request_analytic"]
+	path = stock_request_analytic
+	url = git@gitlab.com:rightechs/custom_addons/stock_request_analytic.git
+	branch = 16.0
+[submodule "stock_request"]
+	path = stock_request
+	url = git@gitlab.com:rightechs/custom_addons/stock_request.git
+	branch = 16.0
+[submodule "rt_website_purchase_request"]
+	path = rt_website_purchase_request
+	url = git@gitlab.com:rightechs/custom_addons/rt_website_purchase_request.git
+	branch = 16.0
