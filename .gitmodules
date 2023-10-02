@@ -57,7 +57,7 @@
 [submodule "rt_website_purchase_request"]
 	path = rt_website_purchase_request
 	url = git@gitlab.com:rightechs/custom_addons/rt_website_purchase_request.git
-	branch = 16.0
+	branch = 16.1
 [submodule "rt_portal_stock_request"]
 	path = rt_portal_stock_request
 	url = git@gitlab.com:rightechs/custom_addons/rt_portal_stock_request.git
