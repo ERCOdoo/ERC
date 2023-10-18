@@ -66,3 +66,7 @@
 	path = rt_website_portal_product
 	url = git@gitlab.com:rightechs/custom_addons/rt_website_portal_product.git
 	branch = 16.0
+[submodule "rt_share_user"]
+	path = rt_share_user
+	url = git@gitlab.com:rightechs/addons/rt_share_user.git
+	branch = 16.0
