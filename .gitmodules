@@ -70,3 +70,7 @@
 	path = rt_share_user
 	url = git@gitlab.com:rightechs/addons/rt_share_user.git
 	branch = 16.0
+[submodule "warehouse_stock_restrictions"]
+	path = warehouse_stock_restrictions
+	url = git@gitlab.com:rightechs/extra_addons/warehouse_stock_restrictions.git
+	branch = 16.0
