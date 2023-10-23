@@ -37,7 +37,7 @@
 [submodule "purchase_request"]
 	path = purchase_request
 	url = git@gitlab.com:rightechs/addons/purchase_request.git
-	branch = 16.0
+	branch = erc
 [submodule "stock_analytic"]
 	path = stock_analytic
 	url = git@gitlab.com:rightechs/custom_addons/stock_analytic.git
