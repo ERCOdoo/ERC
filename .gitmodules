@@ -82,3 +82,11 @@
 	path = payment_current_account
 	url = git@gitlab.com:rightechs/addons/payment_current_account.git
 	branch = 16.0
+[submodule "allow_auto_reconcile"]
+	path = allow_auto_reconcile
+	url = git@gitlab.com:rightechs/addons/allow_auto_reconcile.git
+	branch = 16.0
+[submodule "purchase_order_access"]
+	path = purchase_order_access
+	url = git@gitlab.com:rightechs/addons/purchase_order_access.git
+	branch = 16.0
