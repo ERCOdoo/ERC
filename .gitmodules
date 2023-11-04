@@ -90,3 +90,11 @@
 	path = purchase_order_access
 	url = git@gitlab.com:rightechs/addons/purchase_order_access.git
 	branch = 16.0
+[submodule "change_product_type"]
+	path = change_product_type
+	url = git@gitlab.com:rightechs/addons/change_product_type.git
+	branch = 16.0
+[submodule "account_bookkeeper_access"]
+	path = account_bookkeeper_access
+	url = git@gitlab.com:rightechs/custom_addons/account_bookkeeper_access.git
+	branch = 16.0
