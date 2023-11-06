@@ -98,3 +98,7 @@
 	path = account_bookkeeper_access
 	url = git@gitlab.com:rightechs/custom_addons/account_bookkeeper_access.git
 	branch = 16.0
+[submodule "update_valuation_layer_value"]
+	path = update_valuation_layer_value
+	url = git@gitlab.com:rightechs/rt_addons/extra_addons/update_valuation_layer_value.git
+	branch = 16.0
