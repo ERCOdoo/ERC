@@ -102,3 +102,7 @@
 	path = update_valuation_layer_value
 	url = git@gitlab.com:rightechs/rt_addons/extra_addons/update_valuation_layer_value.git
 	branch = 16.0
+[submodule "rt_add_po_group"]
+	path = rt_add_po_group
+	url = git@gitlab.com:rightechs/custom_addons/rt_add_po_group.git
+	branch = 16.0
