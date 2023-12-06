@@ -110,3 +110,7 @@
 	path = stock_no_negative
 	url = git@gitlab.com:rightechs/extra_addons/stock_no_negative.git
 	branch = 16.0
+[submodule "rt_sales_tax_report"]
+	path = rt_sales_tax_report
+	url = git@gitlab.com:rightechs/rt_addons/custom_addons/rt_sales_tax_report.git
+	branch = 16.0
