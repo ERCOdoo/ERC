@@ -118,3 +118,7 @@
 	path = import_account_group
 	url = git@gitlab.com:rightechs/addons/import_account_group.git
 	branch = 16.0
+[submodule "currency_unrealized_report"]
+	path = currency_unrealized_report
+	url = git@gitlab.com:rightechs/addons/currency_unrealized_report.git
+	branch = 16.0
