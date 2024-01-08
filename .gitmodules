@@ -122,3 +122,7 @@
 	path = currency_unrealized_report
 	url = git@gitlab.com:rightechs/addons/currency_unrealized_report.git
 	branch = 16.0
+[submodule "rt_custom_tax"]
+	path = rt_custom_tax
+	url = git@gitlab.com:rightechs/custom_addons/rt_custom_tax.git
+	branch = 16.0
