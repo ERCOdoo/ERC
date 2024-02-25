@@ -126,3 +126,7 @@
 	path = rt_custom_tax
 	url = git@gitlab.com:rightechs/custom_addons/rt_custom_tax.git
 	branch = 16.0
+[submodule "rt_journal_entries_due_date"]
+	path = rt_journal_entries_due_date
+	url = git@gitlab.com:rightechs/custom_addons/rt_journal_entries_due_date.git
+	branch = 16.0
