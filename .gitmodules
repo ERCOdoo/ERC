@@ -130,3 +130,11 @@
 	path = rt_journal_entries_due_date
 	url = git@gitlab.com:rightechs/custom_addons/rt_journal_entries_due_date.git
 	branch = 16.0
+[submodule "match_invoice_per_plot"]
+	path = match_invoice_per_plot
+	url = git@gitlab.com:rightechs/addons/match_invoice_per_plot.git
+	branch = 16.0
+[submodule "payment_access_right"]
+	path = payment_access_right
+	url = git@gitlab.com:rightechs/addons/payment_access_right.git
+	branch = 16.0
