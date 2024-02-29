@@ -138,3 +138,7 @@
 	path = payment_access_right
 	url = git@gitlab.com:rightechs/addons/payment_access_right.git
 	branch = 16.0
+[submodule "purchase_ceo_approval"]
+	path = purchase_ceo_approval
+	url = git@gitlab.com:rightechs/addons/purchase_ceo_approval.git
+	branch = 16.0
