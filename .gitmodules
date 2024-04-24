@@ -138,3 +138,15 @@
 	path = rt_cash_flow_account_filter
 	url = git@gitlab.com:rightechs/addons/rt_cash_flow_account_filter.git
 	branch = 16.0
+[submodule "match_invoice_per_plot"]
+	path = match_invoice_per_plot
+	url = git@gitlab.com:rightechs/addons/match_invoice_per_plot.git
+	branch = 16.0
+[submodule "payment_access_right"]
+	path = payment_access_right
+	url = git@gitlab.com:rightechs/addons/payment_access_right.git
+	branch = 16.0
+[submodule "custom_partner_ledger"]
+	path = custom_partner_ledger
+	url = git@gitlab.com:rightechs/addons/custom_partner_ledger.git
+	branch = 16.0
