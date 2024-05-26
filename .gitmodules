@@ -150,3 +150,7 @@
 	path = custom_partner_ledger
 	url = git@gitlab.com:rightechs/addons/custom_partner_ledger.git
 	branch = 16.0
+[submodule "web_advanced_search"]
+	path = web_advanced_search
+	url = git@gitlab.com:rightechs/extra_addons/web_advanced_search.git
+	branch = 16.0
