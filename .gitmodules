@@ -154,3 +154,7 @@
 	path = web_advanced_search
 	url = git@gitlab.com:rightechs/extra_addons/web_advanced_search.git
 	branch = 16.0
+[submodule "rt_partner_statement"]
+	path = rt_partner_statement
+	url = git@gitlab.com:rightechs/custom_addons/rt_partner_statement.git
+	branch = 16.0
