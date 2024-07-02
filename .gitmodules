@@ -158,3 +158,7 @@
 	path = rt_partner_statement
 	url = git@gitlab.com:rightechs/custom_addons/rt_partner_statement.git
 	branch = 16.0
+[submodule "rt_print_journal_entries"]
+	path = rt_print_journal_entries
+	url = git@gitlab.com:rightechs/extra_addons/rt_print_journal_entries.git
+	branch = 16.0
