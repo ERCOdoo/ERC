@@ -162,3 +162,7 @@
 	path = rt_print_journal_entries
 	url = git@gitlab.com:rightechs/extra_addons/rt_print_journal_entries.git
 	branch = 16.0
+[submodule "custom_asset"]
+	path = custom_asset
+	url = git@gitlab.com:rightechs/addons/custom_asset.git
+	branch = 16.0
