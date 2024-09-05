@@ -166,3 +166,7 @@
 	path = custom_asset
 	url = git@gitlab.com:rightechs/addons/custom_asset.git
 	branch = 16.0
+[submodule "rt_uom_purchase_order"]
+	path = rt_uom_purchase_order
+	url = git@gitlab.com:rightechs/custom_addons/rt_uom_purchase_order.git
+	branch = 16.0
