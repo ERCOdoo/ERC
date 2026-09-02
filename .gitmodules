@@ -170,3 +170,7 @@
 	path = rt_uom_purchase_order
 	url = git@gitlab.com:rightechs/custom_addons/rt_uom_purchase_order.git
 	branch = 16.0
+[submodule "account_unrealized_currency_gains_losses"]
+	path = account_unrealized_currency_gains_losses
+	url = git@gitlab.com:rightechs/rt_addons/custom/account_unrealized_currency_gains_losses.git
+	branch = 16.0
